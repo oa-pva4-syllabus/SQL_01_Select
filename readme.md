@@ -7,7 +7,7 @@
 ## Obsah
 
 1. Vyberte všechna pole všech zaměstnanců, kteří mají příjmení `Smith`.
-2. Vyberte křestní jména a příjmení všech zaměstnanců, kteří se narodili po roce 1990.
+2. Vyberte křestní jména a příjmení všech zaměstnanců, kteří byli přijati po roce 1990.
 3. Vyberte prvních 10 záznamů z tabulky `employees`, seřazených podle data narození vzestupně.
 4. Vyberte křestní jména a příjmení zaměstnanců, kteří mají jako pohlaví `F`, a seřaďte je sestupně podle příjmení.
 5. Najděte všechny zaměstnance, jejichž příjmení začíná na `A`.
