@@ -6,7 +6,7 @@
 
 ## Obsah
 
-1. Vyberte všechna pole všech zaměstnanců, kteří mají příjmení `Smith`.
+1. Vyberte všechna pole všech zaměstnanců, kteří mají příjmení `Matteis`.
 2. Vyberte křestní jména a příjmení všech zaměstnanců, kteří byli přijati po roce 1990.
 3. Vyberte prvních 10 záznamů z tabulky `employees`, seřazených podle data narození vzestupně.
 4. Vyberte křestní jména a příjmení zaměstnanců, kteří mají jako pohlaví `F`, a seřaďte je sestupně podle příjmení.
